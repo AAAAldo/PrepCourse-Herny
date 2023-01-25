@@ -1,2 +1,1 @@
-# PrepCourse-Herny
-BLAH BLAH BLAH 
+Esto es una prueba sobre un proyecto para clonar 
